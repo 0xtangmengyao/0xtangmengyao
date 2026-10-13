@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">唐梦瑶</h1>
+<p align="center"><strong>运维工程师 → 开发 · 对稳定性有执念</strong></p>
+<p align="center">成电自动化双学位 · 英语能写邮件 · 会一点韩语</p>
 
-<!--
-**0xtangmengyao/0xtangmengyao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 关于我
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+做过支持几十万人同时填写的问卷系统，也踩过不少坑。
+我从运维转向开发，希望把系统做得更稳定，也把经验沉淀下来。
+
+## 公开项目
+
+- [public-api-catalog](https://github.com/0xtangmengyao/public-api-catalog) — 公共 REST API / OpenAPI 目录（fork）
+
+## 最近在学
+
+潜水学习中，顺便减减肥——开个玩笑。
