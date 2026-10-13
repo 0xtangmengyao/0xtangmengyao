@@ -11,7 +11,7 @@
 
 ## 公开项目
 
-- [public-api-catalog](https://github.com/0xtangmengyao/public-api-catalog) — 公共 REST API / OpenAPI 目录（fork）
+- [password](https://github.com/0xtangmengyao/password) — 密码相关工具与笔记
 
 ## 最近在学
 
