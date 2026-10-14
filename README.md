@@ -63,7 +63,6 @@
 ### 📌 公开项目
 
 - [password](https://github.com/0xtangmengyao/password) — 密码相关工具与笔记
-- [public-api-catalog](https://github.com/0xtangmengyao/public-api-catalog) — 公开 REST API 目录：OpenAPI 规范与端点索引
 
 ---
 
